@@ -15,6 +15,7 @@ Scope {
                 bottom: true
             }
             aboveWindows: false
+            exclusionMode: ExclusionMode.Ignore
 
             Image {
                 anchors.fill: parent
