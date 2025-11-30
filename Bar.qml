@@ -20,6 +20,29 @@ Scope {
             color: "transparent"
 
             Rectangle {
+                id: leftSection
+                anchors {
+                    top: parent.top
+                    left: parent.left
+                    bottom: parent.bottom
+                }
+                width: leftSectionLayout.implicitWidth + leftSectionLayout.anchors.leftMargin + leftSectionLayout.anchors.leftMargin
+                bottomRightRadius: 20
+                color: "#101015"
+
+                RowLayout {
+                    id: leftSectionLayout
+                    anchors.fill: parent
+                    anchors.leftMargin: 10
+                    anchors.rightMargin: 10
+                    spacing: 10
+
+                    SystemTrayWidget {
+                    }
+                }
+            }
+
+            Rectangle {
                 id: rightSection
                 anchors {
                     top: parent.top
