@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="right-ear.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#151515"
+     bordercolor="#151515"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.6875"
+     inkscape:cx="282.96296"
+     inkscape:cy="289.18519"
+     inkscape:window-width="1920"
+     inkscape:window-height="1050"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs1" /><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"><path
+       style="display:inline;fill:#ffffff;fill-opacity:1"
+       d="m 347.82025,282.58991 c -1.05275,-1.26604 -3.52627,-4.82895 -5.49671,-7.91757 -1.97043,-3.08863 -7.45624,-8.71982 -12.19068,-12.51376 -4.73444,-3.79394 -8.92228,-7.71689 -9.30631,-8.71765 -0.38403,-1.00077 -1.69054,-1.81958 -2.90334,-1.81958 -1.69354,0 -1.8606,-0.41511 -0.72009,-1.78934 1.867,-2.24959 0.63223,-3.54399 -3.38072,-3.54399 -3.56744,0 -4.01021,-1.59396 -1.11111,-4 2.9739,-2.46812 2.41942,-4.31829 -0.78087,-2.60555 -1.52947,0.81855 -3.16799,1.10114 -3.64115,0.62798 -2.54425,-2.54426 28.88671,-55.05818 38.25408,-63.91379 l 4.11624,-3.89136 2.00132,4.78983 c 7.47331,17.88616 7.82186,66.96684 0.70528,99.31423 -1.76533,8.02405 -2.8627,9.20742 -5.54594,5.98055 z"
+       id="right-ear"
+       sodipodi:nodetypes="ssssssssssscsss" /></g></svg>

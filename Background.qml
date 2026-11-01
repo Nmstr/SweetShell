@@ -17,9 +17,17 @@ Scope {
             aboveWindows: false
             exclusionMode: ExclusionMode.Ignore
 
-            Image {
+            //Image {
+            //    anchors.fill: parent
+            //    source: configFile.wallpaperPath
+            //}
+            Rectangle {
                 anchors.fill: parent
-                source: configFile.wallpaperPath
+                color: "#212121"
+            }
+
+            Cat {
+                anchors.centerIn: parent
             }
         }
     }
